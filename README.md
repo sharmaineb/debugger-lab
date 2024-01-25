@@ -121,4 +121,3 @@ This one might take you a while! It requires some critical thinking as well as u
 ## Submission
 
 When you are finished with the lab, you will need to submit the `debug_log.md` file to Gradescope.
-# debugger-lab
